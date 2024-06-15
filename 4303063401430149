@@ -1,0 +1,25 @@
+https://github.com/Litthcihaik/-.git# litthcihaik-gmail.com
+VMC7+99F ตำบล บุ่ง อำเภอเมืองอำนาจเจริญ อำนาจเจริญ
+index.md-and-highlighting-code-blocks.mdหน้าเว็บนี้มีข้อมูลดังนี้:
+
+- **การนำทาง**: มีเมนูนำทางสำหรับการเข้าถึงส่วนต่างๆ เช่น Issues, Pull requests, Projects, Discussions และอื่นๆ
+- **คำสั่ง**: มีคำแนะนำสำหรับการใช้คำสั่งต่างๆ เช่น การค้นหา (Search), การให้ข้อเสนอแนะ (Feedback) และการสร้างการค้นหาที่บันทึกไว้ (Saved searches)
+- **การแก้ไขไฟล์**: มีข้อมูลเกี่ยวกับการแก้ไขไฟล์ index.md ในโปรเจคที่ผู้ใช้ไม่มีสิทธิ์การเขียน และวิธีการส่ง pull request
+- **ข้อผิดพลาด**: มีการแจ้งข้อผิดพลาดเกี่ยวกับการแนบไฟล์และการประมวลผลไฟล์ที่ไม่รองรับ
+
+หน้านี้เป็นส่วนหนึ่งของ GitHub ที่ให้ข้อมูลเกี่ยวกับการใช้งานและการจัดการกับโปรเจคต่างๆ บนแพลตฟอร์มนี้ครับ.index.md````
+```
+Look! You can see my backticks.
+```
+```````
+function test() {
+  console.log("notice the blank line before this function?");
+}
+```content/get-started/writing-on-github/working-with-advanced-formatting/creating-and-highlighting-code-blocks.md-and-highlighting-code-blocks.mdหน้าเว็บนี้มีข้อมูลเกี่ยวกับการใช้ Markdown ในการจัดรูปแบบข้อความบน GitHub นี่คือสรุปข้อมูลหลัก:
+
+- **การสร้างหัวข้อ**: ใช้สัญลักษณ์ # ตั้งแต่หนึ่งถึงหกตัวก่อนข้อความหัวข้อเพื่อกำหนดระดับความสำคัญและขนาดตัวอักษร
+- **การเน้นข้อความ**: สามารถใช้ตัวหนา, ตัวเอียง, ขีดฆ่า, ตัวห้อย หรือตัวยกเพื่อเน้นข้อความ
+- **การอ้างอิงข้อความ**: ใช้เครื่องหมาย > ก่อนข้อความที่ต้องการอ้างอิง
+- **การแสดงโค้ด**: ใช้ backticks เดี่ยวหรือสามตัวเพื่อจัดรูปแบบโค้ดหรือข้อความ
+
+นอกจากนี้ยังมีข้อมูลเกี่ยวกับการสร้างลิงก์, การใช้ลิงก์สัมพันธ์, การแสดงภาพ และการสร้างรายการที่มีลำดับหรือไม่มีลำดับ ซึ่งสามารถใช้เพื่อจัดรูปแบบเอกสาร Markdown ได้อย่างมีประสิทธิภาพบน GitHub.Welcome to Gboard clipboard, any text that you copy will be saved here.Tap on a clip to paste it in the text box.Use the edit icon to pin, add or delete clips.Touch and hold a clip to pin it. Unpinned clips will be deleted after 1 hour.
